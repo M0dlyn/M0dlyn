@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm  [Mateusz]!
+# 👋 Hi there, I'm  Mateusz Samborski!
 
 ## About Me 
 🚀 I'm passionate about technology and software development
