@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm [Mateusz Samborski](https://github.com/M0dlyn)
+# 👋 Hi there! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXo3Z2t0ZmF2MWZqYzVvZjdvOWNhbWRxYXNyZXV6ZDJkZXJ3bHR2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JUSwkiO1H2yeaYsqQu/giphy.gif" width="80">
 
-## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="25" height="25" />
+## About Me 
 🚀 I'm passionate about technology and software development
 🌱 Currently learning and growing in the tech world
 💡 Always excited to collaborate on interesting projects
@@ -24,6 +24,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
 </div>
 
 ## 🌟 Featured Projects
