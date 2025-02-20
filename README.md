@@ -1,4 +1,4 @@
-# 👋 Hi there! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXo3Z2t0ZmF2MWZqYzVvZjdvOWNhbWRxYXNyZXV6ZDJkZXJ3bHR2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JUSwkiO1H2yeaYsqQu/giphy.gif" width="80">
+# 👋 Hi there, I'm  [Mateusz]!
 
 ## About Me 
 🚀 I'm passionate about technology and software development
