@@ -4,6 +4,8 @@
 🚀 I'm passionate about technology and software development
 🌱 Currently learning and growing in the tech world
 💡 Always excited to collaborate on interesting projects
+💡 Exploring new ways to apply technology to solve real-world problems
+📫 Reachable via LinkedIn and Email
 
 ## 🔧 Technologies & Tools
 <div align="center">
@@ -22,13 +24,19 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 [![Blazor](https://img.shields.io/badge/Blazor-007ACC?style=for-the-badge&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/languages/blazor)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-[![Laravel PHP](https://img.shields.io/badge/Laravel PHP-764BA2?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind CSS-007ACC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 </div>
+
+## 🌱 Currently Working On
+### [GrowMate Frontend (SEP4 Project)](https://github.com/SEP4-2025/frontend-sep4)
+- Developing the user interface for the GrowMate plant monitoring system as part of my SEP4 project at VIA University College.
+- Using React, Vite, and Tailwind CSS to build a modern and responsive frontend.
+- Collaborating with a team to integrate with backend services and IoT sensor data.
 
 ## 🌟 Featured Projects
 ### [Electrikar](https://github.com/PlamenMichev/electrikar)
