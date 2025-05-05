@@ -20,7 +20,14 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
-
+[![Blazor](https://img.shields.io/badge/Blazor-007ACC?style=for-the-badge&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/languages/blazor)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+[![Laravel PHP](https://img.shields.io/badge/Laravel PHP-764BA2?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![MySQL](https://img.shields.io/badge/MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind CSS-007ACC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 </div>
 
 ## 🌟 Featured Projects
@@ -36,13 +43,18 @@ A collaborative SEP3 project developed for VIA University College. This comprehe
 
 The project showcases my ability to work effectively in team environments and contribute to larger-scale educational software projects while maintaining high code quality standards.
 
-### [DNP Forum Application](https://github.com/M0dlyn/DNPAssigment)
-A Reddit-inspired forum application built with .NET technologies. Features include:
-- Web API with CRUD operations
-- Entity Framework Core with SQLite database
-- Blazor WebAssembly frontend
-- Modular architecture with separate layers for network and persistence
-- Repository pattern implementation
+### [Learn to Learn (L2L)](https://github.com/M0dlyn/Learn2Learn)
+My hackathon project aimed at providing students with a tool to improve study habits using proven learning strategies. Key features include:
+- **Study Method Guidance:** Implements techniques like Pomodoro, Spaced Repetition, and Feynman Technique.
+- **Note Management:** Create, organize, and tag notes efficiently.
+- **Smart Note Feedback:** Feature using Gemini AI to offer personalized suggestions on notes.
+- **Tech Stack:** React + TypeScript frontend (Tailwind CSS), Laravel (PHP) backend, and MySQL database.
+
+This project demonstrates skills in full-stack development, applying AI, and building tools focused on educational improvement.
+
+### [One-piecedex](https://github.com/M0dlyn/One-piecedex)
+A web application built using React and Vite, containing information about One Piece devil fruits. 
+- Hosted page: [https://m0dlyn.github.io/One-piecedex/](https://m0dlyn.github.io/One-piecedex/)
 
 ## 📫 How to reach me
 - LinkedIn: [Mateusz Samborski](https://www.linkedin.com/in/mateusz-samborski-a5493b289)
