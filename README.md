@@ -1,9 +1,9 @@
 # Hello there
 
 ## About Me 
-I'm a software engineer that makes people think that programming is black magic (I don't know what I'm doing).
-I like altruistic community projects that put society condition in progressive perspective and ambiguity. I also like cats, cats are cool.
-Wannabe gamedev.
+- I'm a software engineer that makes people think that programming is black magic (I don't know what I'm doing).
+- I like altruistic community projects that put society condition in progressive perspective and ambiguity. I also like cats, cats are cool.
+- Wannabe gamedev.
 
 ##  Technologies I use
   - Force push and pray
