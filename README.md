@@ -1,4 +1,4 @@
-# Hi there
+# Hello there
 
 ## About Me 
 I'm a software engineer that makes people think that programming is black magic (I don't know what I'm doing).
