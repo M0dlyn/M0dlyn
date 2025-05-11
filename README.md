@@ -6,7 +6,7 @@ I like altruistic communities projects that put society condition in progressive
 Wannabe gamedev.
 
 ##  Technologies I use
-<div align="center">
+<div>
   - Force push and pray
   - Rebase and wonder
   - Tab and chill
