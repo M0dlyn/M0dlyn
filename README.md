@@ -10,6 +10,7 @@
   - Rebase and wonder
   - Tab and chill
   - Waiting for the PR
+  - Common Sense
 
 ##  Currently Working On
 - Personality
